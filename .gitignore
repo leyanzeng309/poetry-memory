@@ -1,0 +1,7 @@
+# Keep personal exports and generated share snapshots out of the public repository.
+松间备份-*.json
+松间分享-*.html
+*.sqlite
+*.db
+*.log
+__pycache__/
